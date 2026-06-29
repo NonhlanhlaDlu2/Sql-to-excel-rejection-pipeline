@@ -1,0 +1,12 @@
+
+# Output files - never commit real data
+output/
+*.xlsx
+*.xls
+
+# Log files
+logs/
+*.log
+
+# Local config overrides
+local_config.ps1
